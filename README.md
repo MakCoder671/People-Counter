@@ -1,6 +1,8 @@
 People Counter
 A simple interactive People Counter built with HTML, Tailwind CSS, and JavaScript. This project lets users increment, decrement, and clear a displayed number. It was created as a beginner JavaScript project to practice DOM manipulation, function calls, and UI styling.
 
+![People-Counter Screenshot](screenshot.png)
+
 🚀 Features
 Increment, decrement, and clear buttons
 
@@ -33,9 +35,7 @@ How to style components using Tailwind utility classes
 How to structure a clean, responsive UI
 
 📦 How to Run
-Clone or download the project
-
-Open index.html in your browser
+Click on live link --> https://makcoder671.github.io/People-Counter/
 
 Click the buttons to update the counter
 
